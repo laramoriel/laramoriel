@@ -1,7 +1,7 @@
 # Hello, I'm Lara Moriel
 <a href="www.linkedin.com/in/lara-moriel-9648a238a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently a university junior studying a Cybersecurity and Artificial Intelligence Degree. I have profound interest in maximizing my knowledge in both fields and a dedication to solving complex problems.
+I am currently a junior at University of Málaga studying a Cybersecurity and Artificial Intelligence Degree. I have profound interest in maximizing my knowledge in both fields and a dedication to solving complex problems.
 
 ## Objective
 
