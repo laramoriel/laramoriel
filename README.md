@@ -11,7 +11,7 @@ My passion about technolody and getting people better lives leads to my desire o
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Operating System Knowledge          | <a href="https://google.com">Detection Lab</a>|
+| Operating System Knowledge          | <a href="https://github.com/laramoriel/Custom-UNIX-Shell-in-C">Custom Shell</a>|
 
 ## Projects
-- My own Kernel
+- <a href="https://github.com/laramoriel/Custom-UNIX-Shell-in-C">Custom Shell</a>
