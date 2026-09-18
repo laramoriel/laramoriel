@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Lara Moriel
+<a href="www.linkedin.com/in/lara-moriel-9648a238a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**laramoriel/laramoriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a university junior studying a Cybersecurity and Artificial Intelligence Degree. I have profound interest in maximizing my knowledge in both fields and a dedication to solving complex problems.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My passion about technolody and getting people better lives leads to my desire of adding improvements into our society. I am continuing to explore my options regarding what to specialize in. For now, my goal is to learn as much as possible about cybersecurity and artificial intelligence.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Operating System Knowledge          | <a href="https://google.com">Detection Lab</a>|
+
+## Projects
+- My own Kernel
